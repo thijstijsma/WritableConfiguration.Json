@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Thijs Tijsma</Authors>
+    <PackageLicenseUrl>https://github.com/thijstijsma/WritableConfiguration.Json/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/thijstijsma/WritableConfiguration.Json</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Description>Store settings that are configured at runtime.</Description>
   </PropertyGroup>
 
   <ItemGroup>
