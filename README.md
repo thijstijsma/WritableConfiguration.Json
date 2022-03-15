@@ -5,6 +5,10 @@ Store settings that are configured at runtime.
 You can specify the name of the configuration section and the file you want to use (default is "appsettings.json").
 Note that when you use a custom file you have to add that manually to the `ConfigurationBuilder`.
 
+## Installation
+
+Reference the [ThijsTijsma.WritableConfiguration.Json](https://www.nuget.org/packages/ThijsTijsma.WritableConfiguration.Json/) NuGet package.
+
 ## Usage
 ~~~~csharp
 public class Startup
